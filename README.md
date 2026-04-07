@@ -26,5 +26,5 @@
     [-0.09403047,  0.99054163,  0.00218981,  0.00667265, -2.03771052]
 
 ## 왜곡 보정 데모
-![original](original.png)
-![rectified](rectified.png)
+![original](original_sample.jpg)
+![rectified](rectified_sample.jpg)
